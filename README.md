@@ -1,7 +1,9 @@
+# 👋 Hi there!
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=D8A5F7&lines=Hi+there%2C+I'm+Gantavya+Srivastava)
 
-
 Welcome to my GitHub profile!
+
 <!-- I am an **ECE Engineer** (Electronics and Communication Engineering)
 
 **gantavya02/gantavya02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
