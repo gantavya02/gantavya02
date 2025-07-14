@@ -1,5 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=D8A5F7&lines=Hi+there%2C+I'm+Gantavya+Srivastava)
 
-#   Hi there, I'm Gantavya Srivastava 👋
 
 Welcome to my GitHub profile!
 <!-- I am an **ECE Engineer** (Electronics and Communication Engineering)
