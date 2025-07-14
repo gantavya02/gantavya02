@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
-![Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=D8A5F7&lines=Hi+there%2C+I'm+Gantavya+Srivastava)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I'm+Gantavya+Srivastava)
+
 
 Welcome to my GitHub profile!
 
