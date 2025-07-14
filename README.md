@@ -1,5 +1,5 @@
 
-# Hi there, I'm Gantavya Srivastava 👋
+#   Hi there, I'm Gantavya Srivastava 👋
 
 Welcome to my GitHub profile!
 <!-- I am an **ECE Engineer** (Electronics and Communication Engineering)
